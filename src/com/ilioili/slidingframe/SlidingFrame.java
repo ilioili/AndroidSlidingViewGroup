@@ -13,7 +13,6 @@ public class SlidingFrame extends ViewGroup{
 	
 	private int animationDuration = 400;
 	private View centreView;
-	
 	private float firstX,firstY;
 	/**
 	 * 是否设置了左侧的View
